@@ -12,11 +12,11 @@
 ---
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Using-Ruby-on-Rails-with-Cloud-SQL-for-PostgreSQL-on-Cloud-Run-GSP943/refs/heads/main/qwiklab_explorers_gsp943.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Using-BigQuery-in-the-Google-Cloud-Console-GSP406/refs/heads/main/qwiklab_explorers_gsp406.sh
 
-sudo chmod +x qwiklab_explorers_gsp943.sh
+sudo chmod +x qwiklab_explorers_gsp406.sh
 
-./qwiklab_explorers_gsp943.sh
+./qwiklab_explorers_gsp406.sh
 ```
 
 ---
